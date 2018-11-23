@@ -86,7 +86,7 @@
     "istanbul": "^0.4.4",
     "jsdoc": "^3.5.5",
     "mocha": "^5.2.0",
-    "prebuild": "github:reconbot/prebuild#reconbot/build_v8_with_gn",
+    "prebuild": "https://github.com/reconbot/prebuild/tarball/reconbot/build_v8_with_gn",
     "proxyquire": "^2.0.0",
     "sinon": "^6.0.1"
   },
